@@ -3,6 +3,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barrrado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barrrado&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+[https://img.icons8.com/?size=100&id=20909&format=png&color=000000](https://icons8.com.br/icon/108784/javascript)
+
   <!--
 **Barrrado/Barrrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
