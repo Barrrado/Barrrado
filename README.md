@@ -1,6 +1,6 @@
 ## Hi here 👋
 # Diego Barrado programador em Python atualmente estudando na EBAC - Desenvolvedor Full Stack Python v2 
- ATUALMENTE ATUANDO COM FREELANCER EM DEV FRONT END WEB
+ ATUALMENTE ATUANDO COM FREELANCER EM DEV FRONT END WEB A PROCURA DA PRIMEIRA OPORTUNIDADE!!!! 
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barrrado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
